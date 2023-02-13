@@ -1,0 +1,22 @@
+*{
+    background: lightcoral;
+}
+
+html{
+    font-size: 62.5;
+}
+ul{
+    margin: 4rem;
+    padding: .5rem;
+}
+
+button{ border: 0.1rem solid black;
+    border-radius: 1rem;
+    background-color: black;
+    font-style: italic;
+    font-size: 3rem;    
+}
+
+p{
+    font-size: 1.5rem;
+}

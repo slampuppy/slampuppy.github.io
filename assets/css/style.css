@@ -419,7 +419,7 @@ section {
 
 .about .content ul {
   list-style: none;
-  padding: 0;
+  padding-bottom: 5px;
 }
 
 .about .content ul li {
@@ -486,7 +486,7 @@ section {
 }
 
 /*--------------------------------------------------------------
-# Akills
+# Skills
 --------------------------------------------------------------*/
 .skills .progress {
   height: 60px;
@@ -1227,3 +1227,5 @@ section {
 #footer .credits {
   font-size: 13px;
 }
+
+#music .hobby-image {padding: 40px;}
